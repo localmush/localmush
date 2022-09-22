@@ -1,1 +1,1 @@
-# localmush Multi User Dungeon, including MUD Object Oriented, including MUSH, etc et al
+# localmush MUD (Multi User Dungeons), including MOO (MUD Object Oriented), including MUSH, etc et al
